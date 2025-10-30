@@ -1,1 +1,1 @@
-# neural-network-implementation
+# Neural Network Implementation
